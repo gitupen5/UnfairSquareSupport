@@ -12,7 +12,10 @@ Unfair Square is a challenging game that tests your skills and reflexes. Dive in
 If you're facing issues or have questions, you can get support in the following ways:
 
 ## Contact Information
-For additional assistance, you can reach out via email: mailto: addictedupen@gmail.com 
+You can reach out via email: mailto: addictedupen@gmail.com 
+Drop a mail regarding the issues or any support.
+
+feedbacks are appreciated. 
 
 ## Changelogs / latest updates
 Stay updated on the latest changes and improvements by checking the
