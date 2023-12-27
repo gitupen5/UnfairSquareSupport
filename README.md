@@ -15,6 +15,8 @@ If you're facing issues or have questions, you can get support in the following 
 For additional assistance, you can reach out via email: mailto: addictedupen@gmail.com 
 
 ## Changelogs / latest updates
-Stay updated on the latest changes and improvements by checking the [socials]([(https://www.instagram.com/unfairsquaregame)]).
+Stay updated on the latest changes and improvements by checking the
+[Socials]
+https://www.instagram.com/unfairsquaregame
 
 We appreciate your feedback and support! Enjoy playing Unfair Square!
