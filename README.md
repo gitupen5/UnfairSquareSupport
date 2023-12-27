@@ -14,7 +14,7 @@ If you're facing issues or have questions, you can get support in the following 
 ## Contact Information
 For additional assistance, you can reach out via email: mailto: addictedupen@gmail.com 
 
-## Changelogs
-Stay updated on the latest changes and improvements by checking the [Changelog](https://github.com/gitupen5/UnfairSquareSupport/blob/main/Changelog.md) section.
+## Changelogs / latest updates
+Stay updated on the latest changes and improvements by checking the [socials]([(https://www.instagram.com/unfairsquaregame)]).
 
 We appreciate your feedback and support! Enjoy playing Unfair Square!
